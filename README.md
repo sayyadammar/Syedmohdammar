@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Syedmohdammar
-- 👀 I’m interested in android development
-- 🌱 I’m currently learning android development
-- 💞️ I’m looking to collaborate on android developers
+- 👀 I’m working for zn softech as a flutter developer
 - 📫 How to reach me on my mail
 
 <!---
